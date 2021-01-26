@@ -22,3 +22,5 @@ Para executar em uma máquina local, basta digitar no terminal, dentro do diret�
 -> yarn start
 
 Se aparecer a mensagem: Porta 4k aberta. a API está rodando.
+
+OBS.: Para utilizar o comando YARN START é necessário tem instalado o YARN. Para mais informações: <a href="https://yarnpkg.com/getting-started/install">YARN Installation</a>
